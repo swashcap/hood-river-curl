@@ -14,7 +14,7 @@
     <key>ExitTimeOut</key>
     <integer>5</integer>
     <key>StartInterval</key>
-    <integer>60</integer>
+    <integer>300</integer>
     <key>StandardOutPath</key>
     <string>/Users/creed/Projects/hood-river-curl/stdout.log</string>
     <key>StandardErrorPath</key>
